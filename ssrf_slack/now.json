@@ -11,6 +11,5 @@
     { "src": "(.*)", "dest": "index.js"}
   ],
   "env" : {
-    "SLACK_WEBHOOK": "@slack-webhook-ssrf"
   }
 }
